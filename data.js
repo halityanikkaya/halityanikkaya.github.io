@@ -35,40 +35,9 @@ const portfolioDataRaw = {
   },
   "publications": [
     {
-      "category": "Yayımlanmış Kitaplar",
-      "items": [
-        "Trade Openness, Financial Openness, and Economic Growth, Lambert Academic Publishing, Saarbrücken, 2009.",
-        "Avrupa Birliği Yolunda Esnaf ve Sanatkârlar (A. K. Çelebi, R. Gökbunar, A. A. Gülova ile), Ajansrenk, MESOB Yayınları: 3, Manisa, 2009.",
-        "Avrupa Birliği’nin Türkiye’li Geleceği: Umutlar ve Korkular (R. Gökbunar ve S. Cura ile), Nobel Yayın Evi, Ankara, Mart 2008.",
-        "Etkin Devlet ve Ekonomik Gelişme (R. Gökbunar ile), Odak Yayın Evi, Ankara, 2004."
-      ]
-    },
-    {
-      "category": "Kitapta Bölümler",
-      "items": [
-        "“Foreign Direct Investment and Greenhouse Gas Emissions: A Study on Developed and Developing Countries” (A. Altun ve P. Tat ile), in Sustainable Economy and Finance in the Age of Global Transformation: Governance, Policies, and Technologies, (der. Doç. Dr. C. Korkut ve Prof. Dr. M. Bulut), (pp. 291-312), TÜBA (Türkiye Bilimler Akademisi), Ankara, 2025.",
-        "“Can Global Value Chain Participation Mitigate Conflict Between Nations in the Global Transformation Age?” (P. Tat ile), in Global Transformations and Türkiye, (der. Prof. Dr. Ahmet Nuri Yurdusev ve Dr. Öğr. Üyesi Mürsel Doğrul), (pp. 601-618), TÜBA (Türkiye Bilimler Akademisi), Ankara, 2024.",
-        "“The Role of Voluntary Organizations in Building Trust” (G. G. Sağlam ile), Sustainability Practices - Cases from Business and Charities, (der. M. Bulut, C. Korkut ve M. T. Akpınar), (pp. 6-23), TÜBA (Turkish Academy of Sciences), Ankara, 2023.",
-        "“Küresel Değer Zincirlerinin Bugünü ve Yarını Açısından Yapay Zekâ” (A. Altun ve Ö. Sebetçi ile), Yönetim Biliminde Yapay Zekâ, (der. S. Z. İmamoğlu, S. Erat ve H. İnce), (pp. 47-64), Nobel Bilimsel Eserler, Ankara, Ekim 2023.",
-        "“Is the Global Economy on the Verge of Re-Globalization?” (A. Altun ile), International Trade: Past, Present and Future, (der. M. N. Rahman), (pp.1-18), Nova Science Publishers, 2023.",
-        "“Kamu Harcamalarının Özel Yatırımlar Üzerinde Dışlama Etkisi: Mit mi Gerçek mi?” (T. Turan ile), in Kamu Mali Politikaları Üzerine Ekonometrik Analizler - Stata Uygulamalı (pp. 35-60), DER Yayınevi, Ankara, Nisan 2022.",
-        "“Türkiye Ekonomisine Genel Bir Bakış” in Türkiye’nin Toplumsal Yapısı, (ed. H. Yazıcı), (pp. 253-301), Nobel Akademik Yayıncılık, Ankara, Ekim 2022.",
-        "“The Role of Global Value Chains in Circular Economy” (A. Altun ve P. Tat ile), Circular Economy and Sustainable Living, (ed. M. Bulut and C. Korkut), (pp. 45-100), TÜBA (Turkish Academy of Sciences), Ankara, 2022.",
-        "“Türkiye'de Orman Yangınlarının Turizm Üzerindeki Etkileri” (E. Kaymak ile), TÜBA (Türkiye Bilimler Akademisi), Orman Yangınları: Sebepleri, Etkileri, İzlenmesi, Alınması Gereken Önlemler ve Rehabilitasyon Faaliyetleri, (ed. T. Kavzoğlu), (pp. 319-340), TÜBA (Turkish Academy of Science), Ankara, 2021.",
-        "“Covid-19 Salgını Sürecinde Tarım Sektörü: Girdi-Çıktı Tabloları Üzerinden Bir Değerlendirme” (A. Altun ile), Covid-19 Ekseninde Ekonomik ve Sosyal Dönüşüm, (der. A. Erdal ve S. Takmaz), (pp. 241-282). Nobel Akademik Yayıncılık, Ankara, 2020.",
-        "“Mikrofinance and Poverty Reduction in Somaliland” (A. M. Hussein ile), Yeni Ekonomik Trendler ve İş Fırsatları, (der. M. Yüce, M. Miynat, A. V. Can ve Ş. Sakarya), (pp. 53-62), Ekin Basın Yayın Dağıtım, Bursa, 2019.",
-        "“Küresel Değer Zincirlerinde Türkiye’nin Değişen Pozisyonu” (A. Altun ile), Uluslararası Ticaret: Değer Zinciri, Pazar Yapıları ve Muhasebe Uygulamaları, (der. A. Kara ve R. Sayar), (pp. 1-33), Ekin Basın Yayın Dağıtım, Bursa, 2019.",
-        "“Competition in the Global Economy and Cultural Value Chains” (A. Altun ile), Political Economy: Institutions in a Global Economy, (der. M. Peter van der Hoek), (pp. 59-81). Forum for Economists International, Papendrecht, Netherlands, 2017.",
-        "“Do Agricultural Support Payments Raise Olive Oil Exports in Turkey?” (Z. Aktaş-Koral ile), Economic Issues: Crises, Finance, and Agriculture, (der. S, Koç, A. Anlar ve E. Öruç), (pp. 170-194). IJOPEC Publication, Londra, 2017.",
-        "“Tax Structure and Economic Growth: A GMM Analysis” (T. Turan ile), Social and Economic Dynamics of Development: Case Studies, (der. Savaş Çevik, Hamza Şimşek ve Harini Mitta), (pp. 107-114), IJOPEC Publication, Londra/İstanbul, 2016.",
-        "“Terörizmin Ekonomik Kalkınmaya Etkisi”, Terör Ekonomisi, (der. A. R. Gökbunar, R. Gökbunar), (pp. 117-148), Beta Basım Yayım, İstanbul, Nisan 2010.",
-        "“Küresel Ekonomide Küçük İşletmelerin Yeri ve Önemi”,    Kent Esnaf ve Zanaatkârlarının Sorunları ve Çözüm Önerileri, (der. Kent Araştırma Merkezi), (pp. 73-96), İstanbul, Mayıs 2008.",
-        "“Kurumsal Faktörlerin Ekonomik Büyümeye Etkileri” (H. Karakayalı ile), Kurumsal İktisat, (der. C. C. Aktan), (pp. 135-157), SPK Kurumsal Araştırmalar Serisi, No: 2, Yayın: 194, Nisan 2006."
-      ]
-    },
-    {
       "category": "Yayımlanmış Makaleler",
       "items": [
+        "“How Profitability Differs between Conventional and Islamic Banks: A Dynamic Panel Data Approach” (N. Gümüş ve U. Y. Pabuçcu ile), Pacific-Basin Finance Journal, 2018(48), 99-111.",
         "“The Past and the Future Trade Patterns of the MENA Region: The Pursuit of Growth*” (A. Altun ve P. Tat ile), The Journal of World Economy, 2026, 73, 81-109.",
         "“Does Global Value Chain Participation Lead to Economic Upgrading?*” (H. A. Özer ve T. Turan ile), European Journal of Development Research, 2026, basım aşamasında.",
         "“Does Participating in Agricultural Global Value Chains Promote Agricultural Growth?*” (H. A. Özer ve T. Turan ile), Agribusiness, 2026, basım aşamasında.",
@@ -145,6 +114,39 @@ const portfolioDataRaw = {
       ]
     },
     {
+      "category": "Yayımlanmış Kitaplar",
+      "items": [
+        "Trade Openness, Financial Openness, and Economic Growth, Lambert Academic Publishing, Saarbrücken, 2009.",
+        "Avrupa Birliği Yolunda Esnaf ve Sanatkârlar (A. K. Çelebi, R. Gökbunar, A. A. Gülova ile), Ajansrenk, MESOB Yayınları: 3, Manisa, 2009.",
+        "Avrupa Birliği’nin Türkiye’li Geleceği: Umutlar ve Korkular (R. Gökbunar ve S. Cura ile), Nobel Yayın Evi, Ankara, Mart 2008.",
+        "Etkin Devlet ve Ekonomik Gelişme (R. Gökbunar ile), Odak Yayın Evi, Ankara, 2004."
+      ]
+    },
+    {
+      "category": "Kitapta Bölümler",
+      "items": [
+        "“Microfinance and Poverty Reduction in Somaliland” (A. M. Hussein ile), Yeni Ekonomik Trendler ve İş Fırsatları, (der. M. Yüce, M. Miynat, A. V. Can ve Ş. Sakarya), (pp. 53-62), Ekin Basın Yayın Dağıtım, Bursa, 2019.",
+        "“Foreign Direct Investment and Greenhouse Gas Emissions: A Study on Developed and Developing Countries” (A. Altun ve P. Tat ile), in Sustainable Economy and Finance in the Age of Global Transformation: Governance, Policies, and Technologies, (der. Doç. Dr. C. Korkut ve Prof. Dr. M. Bulut), (pp. 291-312), TÜBA (Türkiye Bilimler Akademisi), Ankara, 2025.",
+        "“Can Global Value Chain Participation Mitigate Conflict Between Nations in the Global Transformation Age?” (P. Tat ile), in Global Transformations and Türkiye, (der. Prof. Dr. Ahmet Nuri Yurdusev ve Dr. Öğr. Üyesi Mürsel Doğrul), (pp. 601-618), TÜBA (Türkiye Bilimler Akademisi), Ankara, 2024.",
+        "“The Role of Voluntary Organizations in Building Trust” (G. G. Sağlam ile), Sustainability Practices - Cases from Business and Charities, (der. M. Bulut, C. Korkut ve M. T. Akpınar), (pp. 6-23), TÜBA (Turkish Academy of Sciences), Ankara, 2023.",
+        "“Küresel Değer Zincirlerinin Bugünü ve Yarını Açısından Yapay Zekâ” (A. Altun ve Ö. Sebetçi ile), Yönetim Biliminde Yapay Zekâ, (der. S. Z. İmamoğlu, S. Erat ve H. İnce), (pp. 47-64), Nobel Bilimsel Eserler, Ankara, Ekim 2023.",
+        "“Is the Global Economy on the Verge of Re-Globalization?” (A. Altun ile), International Trade: Past, Present and Future, (der. M. N. Rahman), (pp.1-18), Nova Science Publishers, 2023.",
+        "“Kamu Harcamalarının Özel Yatırımlar Üzerinde Dışlama Etkisi: Mit mi Gerçek mi?” (T. Turan ile), in Kamu Mali Politikaları Üzerine Ekonometrik Analizler - Stata Uygulamalı (pp. 35-60), DER Yayınevi, Ankara, Nisan 2022.",
+        "“Türkiye Ekonomisine Genel Bir Bakış” in Türkiye’nin Toplumsal Yapısı, (ed. H. Yazıcı), (pp. 253-301), Nobel Akademik Yayıncılık, Ankara, Ekim 2022.",
+        "“The Role of Global Value Chains in Circular Economy” (A. Altun ve P. Tat ile), Circular Economy and Sustainable Living, (ed. M. Bulut and C. Korkut), (pp. 45-100), TÜBA (Turkish Academy of Sciences), Ankara, 2022.",
+        "“Türkiye'de Orman Yangınlarının Turizm Üzerindeki Etkileri” (E. Kaymak ile), TÜBA (Türkiye Bilimler Akademisi), Orman Yangınları: Sebepleri, Etkileri, İzlenmesi, Alınması Gereken Önlemler ve Rehabilitasyon Faaliyetleri, (ed. T. Kavzoğlu), (pp. 319-340), TÜBA (Turkish Academy of Science), Ankara, 2021.",
+        "“Covid-19 Salgını Sürecinde Tarım Sektörü: Girdi-Çıktı Tabloları Üzerinden Bir Değerlendirme” (A. Altun ile), Covid-19 Ekseninde Ekonomik ve Sosyal Dönüşüm, (der. A. Erdal ve S. Takmaz), (pp. 241-282). Nobel Akademik Yayıncılık, Ankara, 2020.",
+        "“Mikrofinance and Poverty Reduction in Somaliland” (A. M. Hussein ile), Yeni Ekonomik Trendler ve İş Fırsatları, (der. M. Yüce, M. Miynat, A. V. Can ve Ş. Sakarya), (pp. 53-62), Ekin Basın Yayın Dağıtım, Bursa, 2019.",
+        "“Küresel Değer Zincirlerinde Türkiye’nin Değişen Pozisyonu” (A. Altun ile), Uluslararası Ticaret: Değer Zinciri, Pazar Yapıları ve Muhasebe Uygulamaları, (der. A. Kara ve R. Sayar), (pp. 1-33), Ekin Basın Yayın Dağıtım, Bursa, 2019.",
+        "“Competition in the Global Economy and Cultural Value Chains” (A. Altun ile), Political Economy: Institutions in a Global Economy, (der. M. Peter van der Hoek), (pp. 59-81). Forum for Economists International, Papendrecht, Netherlands, 2017.",
+        "“Do Agricultural Support Payments Raise Olive Oil Exports in Turkey?” (Z. Aktaş-Koral ile), Economic Issues: Crises, Finance, and Agriculture, (der. S, Koç, A. Anlar ve E. Öruç), (pp. 170-194). IJOPEC Publication, Londra, 2017.",
+        "“Tax Structure and Economic Growth: A GMM Analysis” (T. Turan ile), Social and Economic Dynamics of Development: Case Studies, (der. Savaş Çevik, Hamza Şimşek ve Harini Mitta), (pp. 107-114), IJOPEC Publication, Londra/İstanbul, 2016.",
+        "“Terörizmin Ekonomik Kalkınmaya Etkisi”, Terör Ekonomisi, (der. A. R. Gökbunar, R. Gökbunar), (pp. 117-148), Beta Basım Yayım, İstanbul, Nisan 2010.",
+        "“Küresel Ekonomide Küçük İşletmelerin Yeri ve Önemi”,    Kent Esnaf ve Zanaatkârlarının Sorunları ve Çözüm Önerileri, (der. Kent Araştırma Merkezi), (pp. 73-96), İstanbul, Mayıs 2008.",
+        "“Kurumsal Faktörlerin Ekonomik Büyümeye Etkileri” (H. Karakayalı ile), Kurumsal İktisat, (der. C. C. Aktan), (pp. 135-157), SPK Kurumsal Araştırmalar Serisi, No: 2, Yayın: 194, Nisan 2006."
+      ]
+    },
+    {
       "category": "Monografiler",
       "items": [
         "“Trade Liberalization, Output Growth and Employment Growth: A Cross-Country Empirical Investigation”, The Intergovernmental Group on Monetary Affairs and Development (G-24), 2005, 54 sayfa."
@@ -192,6 +194,11 @@ const portfolioDataRaw = {
     {
       "category": "Kongre/Sempozyumlar",
       "items": [
+        "“Economic and Social Dimensions of Artificial Intelligence Technologies”, Summer School on Artificial Intelligence & Energy, 23 – 30 August 2026, Konya, Türkiye (Özet bildiri).",
+        "“Osmanlı’dan Günümüze Kurumsal Değişim Sürecinde Ahlaki Çözülmenin Nedenleri Üzerine”, İstanbul İktisat Kongresi, TASAM, 9-10 Aralık, 2021, İstanbul, Türkiye.",
+        "“Türkiye’de Uygulanan Yatırım Teşvik Politikalarının Bölgesel Ekonomik Büyümeye Etkisi: Düzey 3 Bölgeleri Bazında Ampirik Bir Analiz”, 6th Yıldız International Social Sciences Congress, 12-13 Aralık 2019, Istanbul, Türkiye.",
+        "“Dynamic World Trade Network”, 12th International Days of Statistics and Economics, 6-8 Eylül 2018, Prag, Çek Cumhuriyeti (Tam metin bildiri).",
+        "“Main Determinants of International Bilateral Trade - ANFIS Approach”, 3rd International Strategic Research Congress, 3-5 Mayıs 2018, Çorum, Turkey.",
         "“Do Automatic Enrollment Schemes Cannibalize Voluntary Retirement Saving? Evidence from a Nationwide Quasi-Experiment”, Economic Research Forum, 32ndAnnual Conference, 14-16 Haziran 2025, Kahire, Mısır (Tam metin bildiri).",
         "“Does Global Value Chain Participation Depress Labor Shares in Manufacturing?”, Economic Research Forum, 32ndAnnual Conference, 14-16 Haziran 2025, Kahire, Mısır (Tam metin bildiri).",
         "“How Does Foreign Direct Investment Affect Emission Intensity Embedded in Trade?”, International Balkans Cooperation Congress, 13-15 Mayıs 2026, İstanbul, Türkiye (Tam Metin Bildiri).",
